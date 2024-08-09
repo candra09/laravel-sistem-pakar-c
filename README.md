@@ -1,4 +1,4 @@
-![Tampilan user penyakit](https://github.com/user-attachments/assets/80e9fbf9-eb89-4cac-982c-d7fd627d2fcb)![tampilan admin daftar user](https://github.com/user-attachments/assets/57611af2-f3a5-4369-af2d-1c737cf25873)Sistem pakar diagnosa penyakit lambung menggunakan forward chaining dan certainty factor
+Sistem pakar diagnosa penyakit lambung menggunakan forward chaining dan certainty factor
 
 #Tampilan Diagnosa
 ![Tampilan admin diagnosa](https://github.com/user-attachments/assets/fdc2530a-0b1e-4ba6-a9a0-f974fc86e676)
@@ -38,6 +38,9 @@ Tampilan User - Diagnosa
 
 #Tampilan USer - Penyakit
 ![Tampilan user penyakit](https://github.com/user-attachments/assets/3789fbd0-e09d-4af2-bdc3-599c3224ae4f)
+
+
+
 
 
 
